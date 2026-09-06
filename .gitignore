@@ -1,0 +1,28 @@
+# Database Config
+config/database.php
+
+# Uploads
+uploads/students/*
+uploads/gallery/*
+uploads/announcements/*
+uploads/settings/*
+!uploads/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary
+*.tmp
+*.temp
+*.log
+
+# Session
+session/
